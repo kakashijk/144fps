@@ -1,0 +1,4 @@
+global game_mode_allowed 1
+global peak_refresh_rate 120.0
+global user_refresh_rate 120.0
+global min_refresh_rate 120.0
