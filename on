@@ -1,7 +1,7 @@
 global game_mode_allowed 1
-global peak_refresh_rate 120.0
-global user_refresh_rate 120.0
-global min_refresh_rate 120.0
+system peak_refresh_rate 120.0
+secure user_refresh_rate 120.0
+system min_refresh_rate 120.0
 global max_fps 120.0
 global fps_limit 120.0
 secure game_overlay mode=2,fps=120
