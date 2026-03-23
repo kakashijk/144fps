@@ -1,0 +1,11 @@
+global game_mode_allowed -1
+system peak_refresh_rate 120.0
+secure user_refresh_rate 120.0
+system min_refresh_rate 1.0
+global max_fps 120.0
+global fps_limit -1
+secure game_overlay mode=-1,fps=-1
+system pdp_fps_limit -1
+secure refresh_rate_mode -1
+global game_mode_config mode=-1,fps=-1
+global fps_mode -1
