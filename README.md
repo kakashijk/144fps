@@ -1,5 +1,5 @@
 ## ⚙️ 120fps and 120hz
-Supports 120Hz and 120fps experience with smooth refresh rates and frame rates.
+Supports 120hz and 120fps experience with smooth refresh rates and frame rates.
 
 ## ⚙️ Usage
 1. Download the Setbox module from the Github community.
