@@ -1,4 +1,4 @@
-## 120fps and 120hz
+## ⚙️ 120fps and 120hz
 Supports 120Hz and 120fps experience with smooth refresh rates and frame rates.
 
 ## ⚙️ Usage
