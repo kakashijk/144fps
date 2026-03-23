@@ -25,4 +25,4 @@ Supports 144fps & 144hz experience with smooth refresh rates and frame rates.
 ---
 
 ## 📜 License
-Released under the [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html).
+[GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html).
