@@ -10,3 +10,6 @@ global peak_frame_rate 120.0
 global user_frame_rate 120.0
 global min_frame_rate 120.0
 global game_performance_ultra default
+global super_speed_mode default 
+global super_fast_mode default 
+global unlock_120fps true
