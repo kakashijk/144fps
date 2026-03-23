@@ -11,6 +11,7 @@ Supports 120Hz and 120fps experience with smooth refresh rates and frame rates.
 ---
 
 ## 📝 Notes
+- Turn disable when you're not playing game.
 - App SetBox is lightweight yet powerful, even more powerful than EditDatabase..
 - Works best when combined with **Shizuku** or **ADB**.  
 
