@@ -1,4 +1,4 @@
-## ⚙️ 144fps & 144hz
+## ⚙️ 144fps & 144hz 🚘
 Supports 144fps & 144hz experience with smooth refresh rates and frame rates.
 
 ## ⚙️ Usage
